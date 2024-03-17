@@ -1,4 +1,4 @@
-# cofomacsc418
+# CSC 418 - Chukwudi Ofoma
 
 My repository for CSC 418 - Special Topics in Computer Science!
 
